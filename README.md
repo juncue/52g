@@ -18,11 +18,11 @@ $ mkdir 52g
 ```bash
 $ git init
 ```
-- 터미너에서 파일 생성 및 편집
+- 터미널에서 파일 생성 및 편집  
+※ i누르고 편집 / esc누르고 중지 / wq 저장 및 종료
 ```bash
 $ vim f1.txt
 ```
-i누르고 편집 / esc누르고 중지 / wq 저장 및 종료
 - 폴더 내 파일 상태 확인
 ```bash
 $ git status
